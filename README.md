@@ -1,1 +1,1 @@
-# python-beginner-project-
+Python practice programs and beginner projects developed while learning programming.# python-beginner-project-
